@@ -18,8 +18,8 @@ cascade:
 
 ### What is ResRobot?
 
-ResRobot is a collection of APIs which provide information for public transport in entire Sweden. It consists of four 
-endpoints. 
+ResRobot is a collection of APIs which provide information for public transport for the entirity of Sweden. It consists of four 
+endpoints:
 - ResRobot Timetables allows you to find departures and arrivals for those stations
 - ResRobot Routeplanner allows you to find ways to travel from A to B 
 - ResRobot Stop lookup allows you to search for stops and to obtain their ID
@@ -27,10 +27,10 @@ endpoints.
 
 ### When should I use ResRobot?
 
-ResRobot is an API which answers to specific questions, such as "when does the next bus leave from stop X". The response
-is quick and easy to use, and can be used directly without having to process it first. This makes it a good fit for for
-example smartphone applications where travellers need an answer on their queries, but a poor choice for analytics where
-a lot of data from a lot of vehicles is needed.
+ResRobot is an API that responds to specific questions, such as "When does the next bus leave from stop X?". The response
+is quick and easy to use, and can be utilized directly without needing any further processing. This makes it a good fit
+for, for example, smartphone applications where travelers need quick answers to their queries, but a poor choice for 
+analytics where large amounts of data from many vehicles are needed.
 
 | Well suited for | Not so suited for |
 | :--- | :--- |
@@ -41,7 +41,7 @@ a lot of data from a lot of vehicles is needed.
 | Websites and widgets |  |
 
 ### API key levels
-There is only one API key required to access all features in ResRobot, the different key levels are specified in the table below. If you don´t have a key yet, 
+There is only one API key required to access all features in ResRobot, the different key levels are specified in the table below. If you don't have a key yet, 
 read [here](/docs/using-trafiklab/getting-api-keys) on how to get one.
 
 | Level    | Maximum calls per minute | Maximum calls per month |
